@@ -1,10 +1,14 @@
 
 # <p align="center">Creation d'un site web WordPress</p>
-
+## Sommaire
 1. [Presentation](#presentation)
 2. [Outils](#Outils)
 3. [Téléverser un Thème](#TeleverserTheme)
 4. [Modifier avec Elementor](#Elementor)
+5. [Contact](#Pagecontact)
+6. [Reservation](#Reservation)
+
+
 
 ## Presentation
 ***
@@ -15,53 +19,29 @@
 ## Les outils mis en oeuvre: 
 * Wordpress 5.6
 * Plugins Elementor
-* WooCommerce
 * OVH Cloud
 
 ## TeleverserTheme
 ***
-![Image text](https://media-6d6e.kxcdn.com/wp-content/uploads/2020/02/ajouter-theme-1536x604.jpg)
+![Ajouter Theme](https://media-6d6e.kxcdn.com/wp-content/uploads/2020/02/ajouter-theme-1536x604.jpg)
 
 ## Elementor
 ***
 Elementor est un constructeur de page pour WordPress qui se présente sous la forme d'un plugin. Il permet de concevoir des pages complexes sur WordPress sans coder, grâce à l'utilisation de modèles de page tout prêts ou en partant de zéro, à ajouter en glisser déposer dans votre contenu.
 
-![Image text](https://wpformation.com/wp-content/uploads/2019/05/0-installer-elementor.jpg)
-![Image text](https://wpformation.com/wp-content/uploads/2019/05/10-activation-elementor.jpg)
+![installer Elementor](https://wpformation.com/wp-content/uploads/2019/05/0-installer-elementor.jpg)
+![Activer elementor](https://wpformation.com/wp-content/uploads/2019/05/10-activation-elementor.jpg)
 
-## Page contact
+## Pagecontact
 ***
-![Image text](‪)
-## Installation
-***
-A little intro about the installation. 
-```
-$ git clone https://example.com
-$ cd ../path/to/the/file
-$ npm install
-$ npm start
-```
-Side information: To use the application in a special environment use ```lorem ipsum``` to start
-## Collaboration
-***
-Give instructions on how to collaborate with your project.
-> Maybe you want to write a quote in this part. 
-> It should go over several rows?
-> This is how you do it.
-## FAQs
-***
-A list of frequently asked questions
-1. **This is a question in bold**
-Answer of the first question with _italic words_. 
-2. __Second question in bold__ 
-To answer this question we use an unordered list:
-* First point
-* Second Point
-* Third point
-3. **Third question in bold**
-Answer of the third question with *italic words*.
-4. **Fourth question in bold**
-| Headline 1 in the tablehead | Headline 2 in the tablehead | Headline 3 in the tablehead |
-|:--------------|:-------------:|--------------:|
-| text-align left | text-align center | text-align right |
+Formulaire contact             |  Code Formulaire
+:-------------------------:|:-------------------------:
+|<img src="https://www.pourpasunrond.fr/wp-content/uploads/2019/09/formulaire-attractif.png" width="425"/>         | <img src="/image/Capture.jpg" width="425"/>
 
+## Reservation 
+***
+Pour la réservation en ligne, j'ai utilisé le plugin ***appointment hour booking***</br>
+<img src="https://ps.w.org/appointment-hour-booking/assets/icon-128x128.png?rev=1784135" width="100"/></br>
+
+ Facile d'utilisation, il suffit de placer les différents composants que l'on souhaiteet le tour est joué!<br>
+[Sommaire](#Sommaire)
