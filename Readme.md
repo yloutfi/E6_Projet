@@ -36,7 +36,7 @@ Elementor est un constructeur de page pour WordPress qui se présente sous la fo
 ***
 Formulaire contact             |  Code Formulaire
 :-------------------------:|:-------------------------:
-|<img src="https://www.pourpasunrond.fr/wp-content/uploads/2019/09/formulaire-attractif.png" width="425"/>         | <img src="/image/capture.JPG" width="425"/>
+|<img src="https://www.pourpasunrond.fr/wp-content/uploads/2019/09/formulaire-attractif.png" width="425"/>         | <img src="image/capture.JPG" width="425"/>
 
 ## Reservation 
 ***
