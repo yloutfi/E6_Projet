@@ -15,4 +15,6 @@
 
 ## AjouterDomaine
 * Se rendre sur l’hébergement que vous souhaitez​
-<img src="imageOVH/heberger.png" width="200"/>
+<img src="imageOVH/heberge.png" width="200"/><br>
+* Puis *Multisite*
+* 
