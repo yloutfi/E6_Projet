@@ -6,6 +6,10 @@
 4. [Choix du Domaine](#ChoixDomaine)
 5. [Créer Base de données](#CreerBaseDeDonnées)
 
+## Presentation 
+Le but de ce README est de vous expliquer comment prendre un hébergement chez OVH de manieère rapide et pratique.
+Bonne Lecture!
+
 ## AcheterNomDomaine
 ***
 * Connectez-vous sur <a href ="https://www.ovh.com/auth/?action=gotomanager&from=https://www.ovh.com/fr/&ovhSubsidiary=fr">OVH Cloud</a>
