@@ -1,4 +1,3 @@
-
 # <p align="center">Creation d'un site web WordPress</p>
 ## Sommaire
 1. [Presentation](#presentation)
