@@ -36,7 +36,7 @@ Elementor est un constructeur de page pour WordPress qui se présente sous la fo
 ***
 Formulaire contact             |  Code Formulaire
 :-------------------------:|:-------------------------:
-|<img src="https://www.pourpasunrond.fr/wp-content/uploads/2019/09/formulaire-attractif.png" width="425"/>         | <img src="/image/contact.jpg" width="425"/>
+|<img src="https://www.pourpasunrond.fr/wp-content/uploads/2019/09/formulaire-attractif.png" width="425"/>         | <img src="image/contact.jpg" width="425"/>
 
 ## Reservation 
 ***
@@ -44,4 +44,8 @@ Pour la réservation en ligne, j'ai utilisé le plugin ***appointment hour booki
 <img src="https://ps.w.org/appointment-hour-booking/assets/icon-128x128.png?rev=1784135" width="100"/></br>
 
  Facile d'utilisation, il suffit de placer les différents composants que l'on souhaiteet le tour est joué!<br>
+ Resultat Reservation           |  Avec le plugin
+:-------------------------:|:-------------------------:
+|<img src="image/reservation.JPG" width="425"/>         | <img src="image/reservCode.jpg" width="425"/>
 [Sommaire](#Sommaire)
+
