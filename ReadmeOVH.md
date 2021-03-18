@@ -4,6 +4,7 @@
 2. [Acheter nom de domaine](#AcheterNomDomaine)
 3. [Ajouter un Domaine à votre hébergement](#AjouterDomaine)
 4. [Choix du Domaine](#ChoixDomaine)
+5. [Créer Base de données](#CreerBaseDeDonnées)
 
 ## AcheterNomDomaine
 ***
@@ -16,7 +17,7 @@
 
 ## AjouterDomaine
 ***
-* Se rendre sur l’hébergement que vous souhaitez​
+* Se rendre sur l’hébergement que vous souhaitez​<br>
 <img src="imageOVH/heberge.png" width="150"/><br>
 * Puis *Multisite*
 * Ajouter un domaine ou sous domaine<br>
@@ -41,5 +42,15 @@
 
 * Revenez sur multisite et votre domaine a bien été ajouter ​
 
-* Générer le SSL pour votre nouveau  domaine (attendre 1h)​
-<img src="imageOVH/choixDomaine.png" width="400"/><br>
+* Générer le SSL pour votre nouveau  domaine (attendre 1h)​</br>
+<img src="imageOVH/choixDomaine.png" width="400"/>
+
+## CreerBaseDeDonnées
+***
+<img src="imageOVH/bddConfig.png" width="700"/><br>
+* Appuyez sur la section Base de Données
+* Créez une base de données​
+
+* Entrez les coordonnées de votre BDD​
+
+**!! Gardez-les !!​**
