@@ -46,6 +46,6 @@ Pour la réservation en ligne, j'ai utilisé le plugin ***appointment hour booki
  Facile d'utilisation, il suffit de placer les différents composants que l'on souhaiteet le tour est joué!<br>
  Resultat Reservation           |  Avec le plugin
 :-------------------------:|:-------------------------:
-|<img src="image/reservation.JPG" width="425"/>         | <img src="image/reservCode.jpg" width="425"/>
+|<img src="image/reservation.JPG" width="425"/>         | <img src="image/reservCode.JPG" width="425"/>
 [Sommaire](#Sommaire)
 
